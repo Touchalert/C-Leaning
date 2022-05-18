@@ -1,0 +1,14 @@
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.csproj.AssemblyReference.cache
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.AssemblyInfoInputs.cache
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.AssemblyInfo.cs
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.csproj.CoreCompileInputs.cache
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.exe
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.deps.json
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.runtimeconfig.json
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.runtimeconfig.dev.json
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.dll
+D:\Project\Grade\Grade\bin\Debug\netcoreapp3.1\Grade.pdb
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.dll
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.pdb
+D:\Project\Grade\Grade\obj\Debug\netcoreapp3.1\Grade.genruntimeconfig.cache

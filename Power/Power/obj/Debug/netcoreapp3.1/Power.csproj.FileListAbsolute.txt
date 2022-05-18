@@ -1,0 +1,14 @@
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.exe
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.deps.json
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.json
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.dev.json
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.dll
+D:\Project\Power\Power\bin\Debug\netcoreapp3.1\Power.pdb
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.csproj.AssemblyReference.cache
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfoInputs.cache
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfo.cs
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.csproj.CoreCompileInputs.cache
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.dll
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.pdb
+D:\Project\Power\Power\obj\Debug\netcoreapp3.1\Power.genruntimeconfig.cache
